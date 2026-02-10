@@ -1,0 +1,51 @@
+.merk{width:200px; height:100%}
+.judulmerk{text-align:center; width:200px; color:black}
+body{background-color:blue}
+.tabelmerk{background-color:white}
+.ling{text-decoration:none}
+
+/*pilihan mobil*/
+.merk{width:200px; height:100%}
+.judulmerk{text-align:center; width:200px; color:black}
+body{background-color:blue}
+.tabelmerk{background-color:white}
+.ling{text-decoration:none; color:white}
+.pilih{padding:4px; font-size:10pt; text-align:center; color:white}
+#pilihan{background-color:steelblue; border-radius:20%; color:white}
+.isi{color:white; font-size:10pt; text-align:justify}
+.tabel{width:52%}
+.judul{width:200px; color:white; font-weight:bold; font-size:120%}
+
+/*keterangan mobil*/
+.merkmobil{width:100%; height:50%}
+.judulmerkmobil{text-align:center; width:200px; }
+body{background-color:blue}
+.tabelmerk{background-color:white}
+.ling{text-decoration:none; color:white}
+.pilihmobil{padding:4px; font-size:101%; text-align:center; color:white}
+#milih{background-color:steelblue; border-radius:20px; color:white}
+.isimobil{color:white; font-size:90%; text-align:justify}
+.tabelmobil{width:70%}
+.order{background-color:darkblue; height:5%; padding:1%;width:98%}
+.pesan{background-color:skyblue; text-align:center; padding:5px; width:15%; border-radius:20px; font-size:120%;color:darkblue}
+.tabel{width:52%}
+
+/*pembayaran*/
+
+.merkmobil{width:100%; height:50%}
+.judulmerkmobil{text-align:center; width:200px; }
+body{background-color:blue}
+.tabelmerk{background-color:white}
+.ling{text-decoration:none; color:white}
+.pilihbayar{padding:4px; font-size:101%; text-align:justify; color:white}
+#pilihan{background-color:steelblue; border-radius:15%; color:white}
+.isi{color:white; font-size:90%; text-align:justify}
+.tabel{width:89%; background-color:steelblue}
+.order{background-color:darkblue; height:50px; padding:11px;width:89%}
+.pesan{background-color:skyblue; text-align:center; padding:5px; width:15%; border-radius:20px; color:black}
+.kolom{width:35%}
+#jumlah{width:25%}
+.tabel2{width:89%; padding:4%; background-color:cadetblue; border-radius:20px}
+.bayar{width:71%}
+.harga{width:50%}
+.hasil{width:15%; color:white; font-size:130%}

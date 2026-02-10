@@ -1,0 +1,19 @@
+.merk{width:100%; height:50%}
+.judulmerk{text-align:center; width:200px; }
+body{background-color:skyblue}
+.tabelmerk{background-color:white}
+.ling{text-decoration:none; color:white}
+.pilih{padding:4px; font-size:101%; text-align:justify; color:white}
+#pilihan{background-color:steelblue; border-radius:15%; color:white}
+.isi{color:white; font-size:90%; text-align:justify}
+.tabel{width:66%; background-color:steelblue}
+.order{background-color:royalblue; height:50px; padding:11px;width:66%}
+.pesan{background-color:skyblue; text-align:center; padding:5px; width:25%; border-radius:20px; color:black}
+.kolom{width:35%}
+#jumlah{width:25%}
+.tabel2{width:66%; padding:4%; background-color:powderblue; border-radius:20px}
+.bayar{width:59%}
+.harga{width:50%}
+.hasil{width:15%; color:white; font-size:130%}
+.judul{width:200px; color:white; font-weight:bold; font-size:120%}
+#total{width:27%}

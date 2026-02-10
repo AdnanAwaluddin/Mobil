@@ -1,0 +1,9 @@
+.merk{width:200px; height:100%}
+.judulmerk{text-align:center; width:200px; color:black}
+body{background-color:blue}
+.tabelmerk{background-color:white}
+.ling{text-decoration:none; color:white}
+.pilih{padding:4px; font-size:10pt; text-align:center; color:white}
+#pilihan{background-color:steelblue; border-radius:20%; color:white}
+.isi{color:white; font-size:10pt; text-align:justify}
+.tabel{width:52%}
