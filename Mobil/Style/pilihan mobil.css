@@ -9,4 +9,5 @@ body{background-color:blue}
 .isi{color:white; font-size:10pt; text-align:justify}
 .tabel{width:52%}
 .judul{width:200px; color:white; font-weight:bold; font-size:120%}
-.tabelperintah{background-color:black}
+.tabelperintah{display:flex; justify-content:space-around; text-align:center; background-color:black}
+.navigasi{display:flex; justify-content:space-around}

@@ -12,3 +12,5 @@ body{background-color:green}
 .pesan{background-color:limegreen; text-align:center; padding:5px; width:15%; border-radius:20px; font-size:120%;color:darkgreen}
 .tabel{width:52%}
 .judul{width:200px; color:white; font-weight:bold; font-size:120%}
+.tabelperintah{display:flex; justify-content:space-around; text-align:center; background-color:black}
+.navigasi{display:flex; justify-content:space-around}
